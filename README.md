@@ -1,0 +1,1 @@
+# Binodata.Utility.Component.NetCore
